@@ -1,0 +1,533 @@
+{
+  "height": 150,
+  "only_override": true,
+  "offset": [
+    4,
+    4,
+    4
+  ],
+  "mobs": [
+    {
+      "weight": 10.0,
+      "value": "minecraft:zombie_pigman"
+    },
+    {
+      "weight": 7.0,
+      "value": "minecraft:wither_skeleton"
+    },
+    {
+      "weight": 3.0,
+      "value": "minecraft:blaze"
+    },
+    {
+      "weight": 4.0,
+      "value": "minecraft:magma_cube"
+    }
+  ],
+  "loot": [
+    {
+      "weight": 10.0,
+      "value": "minecraft:chests/nether_bridge"
+    }
+  ],
+  "fill_blocks": {
+    "at[0]": {
+      "block": "minecraft:air",
+      "meta": 0
+    }
+  },
+  "blocks": {
+    "at[0]": [
+      {
+        "weight": 3.0,
+        "values": [
+          {
+            "weight": 4.0,
+            "blockinfo": {
+              "blocks": []
+            }
+          },
+          {
+            "weight": 8.0,
+            "blockinfo": {
+              "blocks": []
+            }
+          },
+          {
+            "weight": 6.0,
+            "blockinfo": {
+              "blocks": []
+            }
+          },
+          {
+            "weight": 0.8000000000000007,
+            "blockinfo": {
+              "blocks": [],
+              "at[0,1,0]": [],
+              "at[0,2,0]": []
+            }
+          },
+          {
+            "weight": 14.999999999999996,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:netherrack"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 8.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:netherrack"
+                }
+              ],
+              "at[0,1,0]": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:red_mushroom"
+                },
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:brown_mushroom"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 2.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:magma"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 1.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:gravel"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.10000000000000142,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:obsidian"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 3.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:soul_sand"
+                }
+              ],
+              "at[0,1,0]": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:nether_wart"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 3.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:soul_sand"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 8.0,
+            "blockinfo": {
+              "blocks": []
+            }
+          },
+          {
+            "weight": 0.3999999999999986,
+            "blockinfo": {
+              "blocks": []
+            }
+          },
+          {
+            "weight": 1.0,
+            "blockinfo": {
+              "blocks": []
+            }
+          },
+          {
+            "weight": 1.0,
+            "blockinfo": {
+              "blocks": []
+            }
+          },
+          {
+            "weight": 1.0,
+            "blockinfo": {
+              "blocks": []
+            }
+          },
+          {
+            "weight": 1.0,
+            "blockinfo": {
+              "blocks": []
+            }
+          }
+        ]
+      },
+      {
+        "weight": 0.10000000000000009,
+        "blockinfo": {
+          "blocks": [
+            {
+              "weight": 1.0,
+              "block": "minecraft:lit_pumpkin"
+            }
+          ]
+        }
+      },
+      {
+        "weight": 0.2999999999999998,
+        "blockinfo": {
+          "blocks": [
+            {
+              "weight": 1.0,
+              "block": "minecraft:bone_block"
+            }
+          ]
+        }
+      },
+      {
+        "weight": 0.8000000000000003,
+        "blockinfo": {
+          "blocks": [
+            {
+              "weight": 1.0,
+              "block": "minecraft:glowstone"
+            }
+          ]
+        }
+      },
+      {
+        "weight": 0.09999999999999964,
+        "blockinfo": {
+          "blocks": []
+        }
+      },
+      {
+        "weight": 0.15000000000000036,
+        "values": [
+          {
+            "weight": 2.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:coal_block"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 4.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:redstone_block"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 1.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:gold_block"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 8.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:nether_wart_block"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 2.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:quartz_block",
+                  "meta": 0
+                }
+              ]
+            }
+          },
+          {
+            "weight": 2.0,
+            "blockinfo": {
+              "blocks": []
+            }
+          },
+          {
+            "weight": 3.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreClathrateGlowstone"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "weight": 1.0,
+        "values": [
+          {
+            "weight": 20.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:quartz_ore"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 16.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreNetherCoal"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 12.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreNetherIron"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 14.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreNetherRedstone"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 6.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreNetherCopper"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 5.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreNetherNickel"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 1.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreNetherEmerald"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 10.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreNetherGold"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "weight": 2.0,
+        "values": [
+          {
+            "weight": 6.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:lava"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.2999999999999998,
+            "blockinfo": {
+              "blocks": []
+            }
+          },
+          {
+            "weight": 0.09999999999999964,
+            "blockinfo": {
+              "blocks": []
+            }
+          },
+          {
+            "weight": 0.5999999999999996,
+            "blockinfo": {
+              "blocks": []
+            }
+          },
+          {
+            "weight": 0.20000000000000018,
+            "blockinfo": {
+              "blocks": []
+            }
+          }
+        ]
+      },
+      {
+        "weight": 0.5,
+        "values": [
+          {
+            "weight": 6.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:nether_brick"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 1.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:red_nether_brick"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 2.0,
+            "blockinfo": {
+              "blocks": []
+            }
+          },
+          {
+            "weight": 1.0,
+            "blockinfo": {
+              "blocks": []
+            }
+          },
+          {
+            "weight": 0.5,
+            "blockinfo": {
+              "blocks": []
+            }
+          },
+          {
+            "weight": 0.5,
+            "blockinfo": {
+              "blocks": []
+            }
+          },
+          {
+            "weight": 0.5,
+            "blockinfo": {
+              "blocks": []
+            }
+          }
+        ]
+      },
+      {
+        "weight": 0.39999999999999947,
+        "blockinfo": {
+          "blocks": []
+        }
+      },
+      {
+        "weight": 0.1999999999999993,
+        "blockinfo": {
+          "blocks": []
+        }
+      },
+      {
+        "weight": 0.05000000000000071,
+        "blockinfo": {
+          "blocks": [
+            {
+              "weight": 1.0,
+              "block": "minecraft:mob_spawner"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

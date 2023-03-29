@@ -1,0 +1,6687 @@
+[
+  {
+    "block": "gregtech:asphalt",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:boiler_casing",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:boiler_casing",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:boiler_casing",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:boiler_casing",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:boiler_casing",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:boiler_firebox_casing",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:boiler_firebox_casing",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:boiler_firebox_casing",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:boiler_firebox_casing",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:brittle_charcoal",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:cleanroom_casing",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:cleanroom_casing",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:cleanroom_casing",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:fusion_casing",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:fusion_casing",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:fusion_casing",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:fusion_casing",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:fusion_casing",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:hermetic_casing",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:hermetic_casing",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:hermetic_casing",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:hermetic_casing",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:hermetic_casing",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:hermetic_casing",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:hermetic_casing",
+    "meta": 6,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:hermetic_casing",
+    "meta": 7,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:hermetic_casing",
+    "meta": 8,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_0",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_0",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_0",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_0",
+    "meta": 10,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_0",
+    "meta": 11,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_1",
+    "meta": 6,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_1",
+    "meta": 7,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_1",
+    "meta": 9,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_1",
+    "meta": 11,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_100",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_125",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_125",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_125",
+    "meta": 6,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_125",
+    "meta": 10,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_125",
+    "meta": 11,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_125",
+    "meta": 12,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_125",
+    "meta": 13,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_125",
+    "meta": 14,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_126",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_126",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_126",
+    "meta": 13,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_127",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_127",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_127",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_127",
+    "meta": 6,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_127",
+    "meta": 10,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_128",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_128",
+    "meta": 14,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_13",
+    "meta": 6,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_15",
+    "meta": 10,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_15",
+    "meta": 11,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_15",
+    "meta": 12,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_156",
+    "meta": 12,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_156",
+    "meta": 14,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_156",
+    "meta": 15,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_157",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_157",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_157",
+    "meta": 7,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_157",
+    "meta": 8,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_157",
+    "meta": 15,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_16",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_16",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_16",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_16",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_16",
+    "meta": 10,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_16",
+    "meta": 12,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_17",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_17",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_17",
+    "meta": 9,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_17",
+    "meta": 10,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_17",
+    "meta": 13,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_17",
+    "meta": 15,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_18",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_18",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_18",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_18",
+    "meta": 6,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_18",
+    "meta": 7,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_18",
+    "meta": 8,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_18",
+    "meta": 12,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_18",
+    "meta": 13,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_18",
+    "meta": 14,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_18",
+    "meta": 15,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_19",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_19",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_19",
+    "meta": 6,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_19",
+    "meta": 7,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_19",
+    "meta": 8,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_19",
+    "meta": 10,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_19",
+    "meta": 12,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_19",
+    "meta": 15,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_2",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_2",
+    "meta": 7,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_20",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_20",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_20",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_20",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_20",
+    "meta": 8,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_20",
+    "meta": 9,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_20",
+    "meta": 11,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_20",
+    "meta": 13,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_20",
+    "meta": 14,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_20",
+    "meta": 15,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_21",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_21",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_21",
+    "meta": 8,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_21",
+    "meta": 15,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_22",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_22",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_22",
+    "meta": 13,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_24",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_24",
+    "meta": 11,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_24",
+    "meta": 12,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_26",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_26",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_26",
+    "meta": 7,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_26",
+    "meta": 8,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_26",
+    "meta": 9,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_26",
+    "meta": 10,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_26",
+    "meta": 11,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_26",
+    "meta": 12,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_26",
+    "meta": 13,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_26",
+    "meta": 14,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_26",
+    "meta": 15,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_27",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_3",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_3",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_3",
+    "meta": 7,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_3",
+    "meta": 13,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_4",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_4",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_4",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_4",
+    "meta": 7,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_4",
+    "meta": 11,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_4",
+    "meta": 13,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_5",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_5",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_5",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_5",
+    "meta": 10,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_5",
+    "meta": 13,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_5",
+    "meta": 15,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_6",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_6",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_6",
+    "meta": 8,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_6",
+    "meta": 13,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_62",
+    "meta": 8,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_62",
+    "meta": 12,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_62",
+    "meta": 14,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_62",
+    "meta": 15,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_63",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_63",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_63",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_63",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_63",
+    "meta": 7,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_63",
+    "meta": 8,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_63",
+    "meta": 9,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_66",
+    "meta": 12,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_67",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_7",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_7",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_7",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_7",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_7",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_7",
+    "meta": 6,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_7",
+    "meta": 9,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_7",
+    "meta": 10,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_7",
+    "meta": 12,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_7",
+    "meta": 13,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_7",
+    "meta": 14,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_7",
+    "meta": 15,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_8",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_8",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_compressed_8",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_frame_0",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_frame_101",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_frame_103",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_frame_125",
+    "meta": 11,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_frame_125",
+    "meta": 13,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_frame_127",
+    "meta": 10,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_frame_156",
+    "meta": 15,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_frame_157",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_frame_157",
+    "meta": 7,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_frame_157",
+    "meta": 8,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_frame_16",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_frame_17",
+    "meta": 15,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_frame_2",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_frame_20",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_frame_20",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_frame_63",
+    "meta": 8,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_frame_7",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_frame_7",
+    "meta": 15,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:meta_block_frame_8",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:metal_casing",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:metal_casing",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:metal_casing",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:metal_casing",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:metal_casing",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:metal_casing",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:metal_casing",
+    "meta": 6,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:metal_casing",
+    "meta": 7,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:metal_casing",
+    "meta": 8,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:metal_casing",
+    "meta": 9,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:metal_casing",
+    "meta": 10,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:multiblock_casing",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:multiblock_casing",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:multiblock_casing",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:multiblock_casing",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:multiblock_casing",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_almandine_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_aluminium_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_alunite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_amethyst_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_apatite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_asbestos_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_banded_iron_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_barite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_basaltic_mineral_sand_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_bastnasite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_bauxite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_bentonite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_beryllium_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_blue_topaz_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_bornite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_brown_limonite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_calcite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_cassiterite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_cassiterite_sand_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_certus_quartz_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_chalcocite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_chalcopyrite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_chromite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_cinnabar_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_coal_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_cobalt_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_cobaltite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_cooperite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_copper_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_diamond_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_diatomite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_electrotine_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_emerald_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_fullers_earth_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_galena_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_garnet_red_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_garnet_sand_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_garnet_yellow_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_garnierite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_glauconite_sand_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_gold_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_granitic_mineral_sand_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_graphite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_green_sapphire_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_grossular_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_gypsum_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_ilmenite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_iron_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_kyanite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_lapis_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_lazurite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_lead_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_lepidolite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_lithium_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_magnesite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_magnetite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_malachite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_mica_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_molybdenite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_molybdenum_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_monazite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_naquadah_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_neodymium_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_nether_quartz_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_nickel_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_oilsands_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_olivine_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_opal_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_palladium_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_pentlandite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_pitchblende_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_platinum_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_plutonium_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_pollucite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_powellite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_pyrite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_pyrochlore_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_pyrolusite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_pyrope_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_quartzite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_realgar_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_redstone_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_rock_salt_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_ruby_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_salt_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_saltpeter_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_sapphire_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_scheelite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_silver_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_soapstone_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_sodalite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_spessartine_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_sphalerite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_spodumene_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_stibnite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_sulfur_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_talc_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_tantalite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_tetrahedrite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_thorium_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_tin_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_topaz_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_tricalcium_phosphate_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_trona_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_tungstate_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_uraninite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_vanadium_magnetite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_wulfenite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_yellow_limonite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:ore_zeolite_0",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:planks",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:planks",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:reinforced_petrified_foam",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:rubber_leaves",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:rubber_log",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:rubber_sapling",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:steam_casing",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:steam_casing",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:steam_casing",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:steam_casing",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:steam_casing",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:steam_casing",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks_cracked",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks_cracked",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks_cracked",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks_cracked",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks_cracked",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks_cracked",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks_mossy",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks_mossy",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks_mossy",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks_mossy",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks_mossy",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks_mossy",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks_small",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks_small",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks_small",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks_small",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks_small",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks_small",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks_square",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks_square",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks_square",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks_square",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks_square",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_bricks_square",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_chiseled",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_chiseled",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_chiseled",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_chiseled",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_chiseled",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_chiseled",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_cobble",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_cobble",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_cobble",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_cobble",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_cobble",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_cobble",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_cobble_mossy",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_cobble_mossy",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_cobble_mossy",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_cobble_mossy",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_cobble_mossy",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_cobble_mossy",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_polished",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_polished",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_polished",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_polished",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_polished",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_polished",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_smooth",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_smooth",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_smooth",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_smooth",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_smooth",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_smooth",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_tiled",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_tiled",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_tiled",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_tiled",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_tiled",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_tiled",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_tiled_small",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_tiled_small",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_tiled_small",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_tiled_small",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_tiled_small",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_tiled_small",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_windmill_a",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_windmill_a",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_windmill_a",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_windmill_a",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_windmill_a",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_windmill_a",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_windmill_b",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_windmill_b",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_windmill_b",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_windmill_b",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_windmill_b",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:stone_windmill_b",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:transparent_casing",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:transparent_casing",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:transparent_casing",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:transparent_casing",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:turbine_casing",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:turbine_casing",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:turbine_casing",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:turbine_casing",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:turbine_casing",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:turbine_casing",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:turbine_casing",
+    "meta": 6,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:turbine_casing",
+    "meta": 7,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:turbine_casing",
+    "meta": 8,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:warning_sign",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:warning_sign",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:warning_sign",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:warning_sign",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:warning_sign",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:warning_sign",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:warning_sign",
+    "meta": 6,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:warning_sign",
+    "meta": 7,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:warning_sign",
+    "meta": 8,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:warning_sign",
+    "meta": 9,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:warning_sign",
+    "meta": 10,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:warning_sign",
+    "meta": 11,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:warning_sign",
+    "meta": 12,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:warning_sign",
+    "meta": 13,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:warning_sign",
+    "meta": 14,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:warning_sign",
+    "meta": 15,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:warning_sign_1",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:warning_sign_1",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:warning_sign_1",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:warning_sign_1",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:warning_sign_1",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:warning_sign_1",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:warning_sign_1",
+    "meta": 6,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:warning_sign_1",
+    "meta": 7,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:warning_sign_1",
+    "meta": 8,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:acacia_door",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:acacia_fence",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:acacia_fence_gate",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:acacia_stairs",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:activator_rail",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:air",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:anvil",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:anvil",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:anvil",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:barrier",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:beacon",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:bed",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:beetroots",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:birch_door",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:birch_fence",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:birch_fence_gate",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:birch_stairs",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:black_glazed_terracotta",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:black_shulker_box",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:blue_glazed_terracotta",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:blue_shulker_box",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:bone_block",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:bookshelf",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:brewing_stand",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:brick_block",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:brick_stairs",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:brown_glazed_terracotta",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:brown_mushroom",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:brown_mushroom_block",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:brown_shulker_box",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:cactus",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:cake",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:carpet",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:carpet",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:carpet",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:carpet",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:carpet",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:carpet",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:carpet",
+    "meta": 6,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:carpet",
+    "meta": 7,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:carpet",
+    "meta": 8,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:carpet",
+    "meta": 9,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:carpet",
+    "meta": 10,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:carpet",
+    "meta": 11,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:carpet",
+    "meta": 12,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:carpet",
+    "meta": 13,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:carpet",
+    "meta": 14,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:carpet",
+    "meta": 15,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:carrots",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:cauldron",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:chest",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:chorus_flower",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:chorus_plant",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:clay",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:coal_block",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:coal_ore",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:cobblestone",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:cobblestone_wall",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:cobblestone_wall",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:cocoa",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete",
+    "meta": 6,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete",
+    "meta": 7,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete",
+    "meta": 8,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete",
+    "meta": 9,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete",
+    "meta": 10,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete",
+    "meta": 11,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete",
+    "meta": 12,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete",
+    "meta": 13,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete",
+    "meta": 14,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete",
+    "meta": 15,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete_powder",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete_powder",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete_powder",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete_powder",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete_powder",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete_powder",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete_powder",
+    "meta": 6,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete_powder",
+    "meta": 7,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete_powder",
+    "meta": 8,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete_powder",
+    "meta": 9,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete_powder",
+    "meta": 10,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete_powder",
+    "meta": 11,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete_powder",
+    "meta": 12,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete_powder",
+    "meta": 13,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete_powder",
+    "meta": 14,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:concrete_powder",
+    "meta": 15,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:crafting_table",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:cyan_glazed_terracotta",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:cyan_shulker_box",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:dark_oak_door",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:dark_oak_fence",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:dark_oak_fence_gate",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:dark_oak_stairs",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:daylight_detector",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:daylight_detector_inverted",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:deadbush",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:detector_rail",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:diamond_block",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:diamond_ore",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:dirt",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:dirt",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:dirt",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:dispenser",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:double_plant",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:double_plant",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:double_plant",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:double_plant",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:double_plant",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:double_plant",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:double_stone_slab",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:double_stone_slab",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:double_stone_slab",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:double_stone_slab",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:double_stone_slab",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:double_stone_slab",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:double_stone_slab",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:double_stone_slab2",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:double_wooden_slab",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:double_wooden_slab",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:double_wooden_slab",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:double_wooden_slab",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:double_wooden_slab",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:double_wooden_slab",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:dragon_egg",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:dropper",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:emerald_block",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:emerald_ore",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:enchanting_table",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:end_bricks",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:end_gateway",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:end_portal",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:end_portal_frame",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:end_rod",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:end_stone",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:ender_chest",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:farmland",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:fence",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:fence_gate",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:fire",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:flower_pot",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:flowing_lava",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:flowing_water",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:frosted_ice",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:furnace",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:glass",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:glass_pane",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:glowstone",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:gold_block",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:gold_ore",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:golden_rail",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:grass",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:grass_path",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:gravel",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:gray_glazed_terracotta",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:gray_shulker_box",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:green_glazed_terracotta",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:green_shulker_box",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:hardened_clay",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:hay_block",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:heavy_weighted_pressure_plate",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:hopper",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:ice",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:iron_bars",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:iron_block",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:iron_door",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:iron_ore",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:iron_trapdoor",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:jukebox",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:jungle_door",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:jungle_fence",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:jungle_fence_gate",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:jungle_stairs",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:ladder",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:lapis_block",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:lapis_ore",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:lava",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:leaves",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:leaves",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:leaves",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:leaves",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:leaves2",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:leaves2",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:lever",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:light_blue_glazed_terracotta",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:light_blue_shulker_box",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:light_weighted_pressure_plate",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:lime_glazed_terracotta",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:lime_shulker_box",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:lit_furnace",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:lit_pumpkin",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:lit_redstone_lamp",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:lit_redstone_ore",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:log",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:log",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:log",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:log",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:log2",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:log2",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:magenta_glazed_terracotta",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:magenta_shulker_box",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:magma",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:melon_block",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:melon_stem",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:mob_spawner",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:monster_egg",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:monster_egg",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:monster_egg",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:monster_egg",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:monster_egg",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:monster_egg",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:mossy_cobblestone",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:mycelium",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:nether_brick",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:nether_brick_fence",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:nether_brick_stairs",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:nether_wart",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:nether_wart_block",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:netherrack",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:noteblock",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:oak_stairs",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:observer",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:obsidian",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:orange_glazed_terracotta",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:orange_shulker_box",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:packed_ice",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:pink_glazed_terracotta",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:pink_shulker_box",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:piston",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:piston_extension",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:piston_head",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:planks",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:planks",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:planks",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:planks",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:planks",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:planks",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:portal",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:potatoes",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:powered_comparator",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:powered_repeater",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:prismarine",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:prismarine",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:prismarine",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:pumpkin",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:pumpkin_stem",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:purple_glazed_terracotta",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:purple_shulker_box",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:purpur_block",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:purpur_double_slab",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:purpur_pillar",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:purpur_slab",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:purpur_stairs",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:quartz_block",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:quartz_block",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:quartz_block",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:quartz_ore",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:quartz_stairs",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:rail",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:red_flower",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:red_flower",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:red_flower",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:red_flower",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:red_flower",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:red_flower",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:red_flower",
+    "meta": 6,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:red_flower",
+    "meta": 7,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:red_flower",
+    "meta": 8,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:red_glazed_terracotta",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:red_mushroom",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:red_mushroom_block",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:red_nether_brick",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:red_sandstone",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:red_sandstone",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:red_sandstone",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:red_sandstone_stairs",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:red_shulker_box",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:redstone_block",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:redstone_lamp",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:redstone_ore",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:redstone_torch",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:reeds",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:sand",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:sand",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:sandstone",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:sandstone",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:sandstone",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:sandstone_stairs",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:sapling",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:sapling",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:sapling",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:sapling",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:sapling",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:sapling",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:sea_lantern",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:silver_glazed_terracotta",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:silver_shulker_box",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:skull",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:slime",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:snow",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:snow_layer",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:soul_sand",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:sponge",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:sponge",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:spruce_door",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:spruce_fence",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:spruce_fence_gate",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:spruce_stairs",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass",
+    "meta": 6,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass",
+    "meta": 7,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass",
+    "meta": 8,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass",
+    "meta": 9,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass",
+    "meta": 10,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass",
+    "meta": 11,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass",
+    "meta": 12,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass",
+    "meta": 13,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass",
+    "meta": 14,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass",
+    "meta": 15,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass_pane",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass_pane",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass_pane",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass_pane",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass_pane",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass_pane",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass_pane",
+    "meta": 6,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass_pane",
+    "meta": 7,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass_pane",
+    "meta": 8,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass_pane",
+    "meta": 9,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass_pane",
+    "meta": 10,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass_pane",
+    "meta": 11,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass_pane",
+    "meta": 12,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass_pane",
+    "meta": 13,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass_pane",
+    "meta": 14,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_glass_pane",
+    "meta": 15,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_hardened_clay",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_hardened_clay",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_hardened_clay",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_hardened_clay",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_hardened_clay",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_hardened_clay",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_hardened_clay",
+    "meta": 6,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_hardened_clay",
+    "meta": 7,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_hardened_clay",
+    "meta": 8,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_hardened_clay",
+    "meta": 9,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_hardened_clay",
+    "meta": 10,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_hardened_clay",
+    "meta": 11,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_hardened_clay",
+    "meta": 12,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_hardened_clay",
+    "meta": 13,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_hardened_clay",
+    "meta": 14,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stained_hardened_clay",
+    "meta": 15,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:standing_banner",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:standing_sign",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:sticky_piston",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stone",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stone",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stone",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stone",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stone",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stone",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stone",
+    "meta": 6,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stone_brick_stairs",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stone_button",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stone_pressure_plate",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stone_slab",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stone_slab",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stone_slab",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stone_slab",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stone_slab",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stone_slab",
+    "meta": 6,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stone_slab",
+    "meta": 7,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stone_slab2",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stone_stairs",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stonebrick",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stonebrick",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stonebrick",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:stonebrick",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:tallgrass",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:tallgrass",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:tnt",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:torch",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:trapdoor",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:trapped_chest",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:unlit_redstone_torch",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:unpowered_comparator",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:unpowered_repeater",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:vine",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:wall_banner",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:wall_sign",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:water",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:waterlily",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:web",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:wheat",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:white_glazed_terracotta",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:white_shulker_box",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:wooden_button",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:wooden_door",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:wooden_pressure_plate",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:wooden_slab",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:wooden_slab",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:wooden_slab",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:wooden_slab",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:wooden_slab",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:wooden_slab",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:wool",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:wool",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:wool",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:wool",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:wool",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:wool",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:wool",
+    "meta": 6,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:wool",
+    "meta": 7,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:wool",
+    "meta": 8,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:wool",
+    "meta": 9,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:wool",
+    "meta": 10,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:wool",
+    "meta": 11,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:wool",
+    "meta": 12,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:wool",
+    "meta": 13,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:wool",
+    "meta": 14,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:wool",
+    "meta": 15,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:yellow_flower",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:yellow_glazed_terracotta",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "minecraft:yellow_shulker_box",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  }
+]

@@ -1,0 +1,669 @@
+{
+  "height": 150,
+  "only_override": false,
+  "offset": [
+    4,
+    4,
+    4
+  ],
+  "mobs": [
+    {
+      "weight": 10.0,
+      "value": "minecraft:zombie"
+    },
+    {
+      "weight": 5.0,
+      "value": "minecraft:skeleton"
+    },
+    {
+      "weight": 4.0,
+      "value": "minecraft:spider"
+    },
+    {
+      "weight": 4.0,
+      "value": "minecraft:cave_spider"
+    },
+    {
+      "weight": 1.0,
+      "value": "minecraft:creeper"
+    }
+  ],
+  "loot": [
+    {
+      "weight": 10.0,
+      "value": "minecraft:chests/village_blacksmith"
+    },
+    {
+      "weight": 10.0,
+      "value": "minecraft:chests/simple_dungeon"
+    },
+    {
+      "weight": 4.0,
+      "value": "minecraft:chests/desert_pyramid"
+    },
+    {
+      "weight": 4.0,
+      "value": "minecraft:chests/jungle_temple"
+    },
+    {
+      "weight": 2.0,
+      "value": "minecraft:chests/stronghold_corridor"
+    },
+    {
+      "weight": 2.0,
+      "value": "minecraft:chests/stronghold_crossing"
+    },
+    {
+      "weight": 2.0,
+      "value": "minecraft:chests/stronghold_library"
+    },
+    {
+      "weight": 1.0,
+      "value": "minecraft:chests/woodland_mansion"
+    }
+  ],
+  "fill_blocks": {
+    "at[0]": {
+      "block": "minecraft:air",
+      "meta": 0
+    }
+  },
+  "blocks": {
+    "at[0]": [
+      {
+        "weight": 10.0,
+        "values": [
+          {
+            "weight": 1.0,
+            "values": [
+              {
+                "weight": 1.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:emerald_ore"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 2.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:diamond_ore"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 8.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:redstone_ore"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 6.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:lapis_ore"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 3.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:gold_ore"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 10.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:iron_ore"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 20.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:coal_ore"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 8.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "oreLead"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 8.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "oreTin"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 12.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "oreCopper"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 5.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "oreNickel"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 8.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "oreAluminum"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 3.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "oreSilver"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 3.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "oreClathrateRedstone"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.7999999999999972,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "oreRuby"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.7999999999999972,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "orePeridot"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.7999999999999972,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "oreSapphire"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 4.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "oreAmber"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 4.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "oreCinnabar"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "weight": 1.0,
+            "values": [
+              {
+                "weight": 1.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:emerald_ore"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 2.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:diamond_ore"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 8.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:redstone_ore"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 6.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:lapis_ore"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 3.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:gold_ore"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 10.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:iron_ore"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 20.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:coal_ore"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 8.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "oreLead"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 8.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "oreTin"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 12.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "oreCopper"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 5.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "oreNickel"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 8.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "oreAluminum"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 3.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "oreSilver"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.7999999999999972,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "oreTopaz"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.7999999999999972,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "oreTanzanite"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.7999999999999972,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "oreMalachite"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 4.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "oreAmber"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 4.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "oreCinnabar"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "weight": 30.0,
+        "values": [
+          {
+            "weight": 12.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:stone",
+                  "meta": 0
+                }
+              ]
+            }
+          },
+          {
+            "weight": 2.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:obsidian"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 6.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:cobblestone"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 8.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:gravel"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 4.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:stone",
+                  "meta": 1
+                }
+              ]
+            }
+          },
+          {
+            "weight": 1.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:stone",
+                  "meta": 2
+                }
+              ]
+            }
+          },
+          {
+            "weight": 4.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:stone",
+                  "meta": 3
+                }
+              ]
+            }
+          },
+          {
+            "weight": 1.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:stone",
+                  "meta": 4
+                }
+              ]
+            }
+          },
+          {
+            "weight": 4.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:stone",
+                  "meta": 5
+                }
+              ]
+            }
+          },
+          {
+            "weight": 1.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:stone",
+                  "meta": 6
+                }
+              ]
+            }
+          },
+          {
+            "weight": 5.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "stoneBasalt"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 5.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "stoneMarble"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 5.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "stoneLimestone"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "weight": 0.20000000000000284,
+        "blockinfo": {
+          "blocks": []
+        }
+      },
+      {
+        "weight": 0.5,
+        "blockinfo": {
+          "blocks": [
+            {
+              "weight": 1.0,
+              "block": "minecraft:mob_spawner"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

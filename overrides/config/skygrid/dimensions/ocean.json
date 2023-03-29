@@ -1,0 +1,192 @@
+{
+  "height": 150,
+  "only_override": false,
+  "offset": [
+    6,
+    6,
+    6
+  ],
+  "mobs": [
+    {
+      "weight": 10.0,
+      "value": "minecraft:guardian"
+    }
+  ],
+  "loot": [
+    {
+      "weight": 1.0,
+      "value": "minecraft:chests/igloo_chest"
+    },
+    {
+      "weight": 1.0,
+      "value": "minecraft:chests/jungle_temple"
+    }
+  ],
+  "fill_blocks": {
+    "at[0]": {
+      "block": "minecraft:water",
+      "meta": 0
+    }
+  },
+  "blocks": {
+    "at[0]": [
+      {
+        "weight": 0.1,
+        "blockinfo": {
+          "blocks": [
+            {
+              "weight": 1.0,
+              "block": "minecraft:sponge",
+              "meta": 1
+            }
+          ]
+        }
+      },
+      {
+        "weight": 0.05000000000000002,
+        "blockinfo": {
+          "blocks": [
+            {
+              "weight": 1.0,
+              "block": "minecraft:gold_block"
+            }
+          ]
+        }
+      },
+      {
+        "weight": 2.0,
+        "values": [
+          {
+            "weight": 1.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:clay"
+                },
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:gravel"
+                },
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:sand",
+                  "meta": 0
+                }
+              ],
+              "at[0,1,0]": [
+                {
+                  "weight": 3.0,
+                  "block": "minecraft:water",
+                  "meta": 0
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.19999999999999996,
+            "blockinfo": {
+              "blocks": []
+            }
+          }
+        ]
+      },
+      {
+        "weight": 0.2999999999999998,
+        "values": [
+          {
+            "weight": 4.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:ice"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 2.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:packed_ice"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 1.0,
+            "blockinfo": {
+              "blocks": []
+            }
+          }
+        ]
+      },
+      {
+        "weight": 1.0,
+        "values": [
+          {
+            "weight": 1.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:prismarine",
+                  "meta": 0
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.3999999999999999,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:prismarine",
+                  "meta": 1
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.19999999999999996,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:prismarine",
+                  "meta": 2
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.30000000000000004,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:sea_lantern"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "weight": 0.020000000000000018,
+        "blockinfo": {
+          "blocks": [
+            {
+              "weight": 1.0,
+              "block": "minecraft:mob_spawner"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

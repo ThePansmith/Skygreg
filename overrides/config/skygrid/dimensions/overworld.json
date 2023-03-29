@@ -1,0 +1,2053 @@
+{
+  "height": 150,
+  "only_override": true,
+  "offset": [
+    4,
+    4,
+    4
+  ],
+  "mobs": [
+    {
+      "weight": 10.0,
+      "value": "minecraft:zombie"
+    },
+    {
+      "weight": 5.0,
+      "value": "minecraft:skeleton"
+    },
+    {
+      "weight": 4.0,
+      "value": "minecraft:spider"
+    },
+    {
+      "weight": 4.0,
+      "value": "minecraft:cave_spider"
+    },
+    {
+      "weight": 1.0,
+      "value": "minecraft:creeper"
+    }
+  ],
+  "loot": [
+    {
+      "weight": 8.0,
+      "value": "minecraft:chests/spawn_bonus_chest"
+    },
+    {
+      "weight": 8.0,
+      "value": "minecraft:chests/village_blacksmith"
+    },
+    {
+      "weight": 8.0,
+      "value": "minecraft:chests/simple_dungeon"
+    },
+    {
+      "weight": 2.0,
+      "value": "minecraft:chests/abandoned_mineshaft"
+    },
+    {
+      "weight": 2.0,
+      "value": "minecraft:chests/desert_pyramid"
+    },
+    {
+      "weight": 2.0,
+      "value": "minecraft:chests/jungle_temple"
+    },
+    {
+      "weight": 4.0,
+      "value": "minecraft:chests/stronghold_corridor"
+    },
+    {
+      "weight": 4.0,
+      "value": "minecraft:chests/stronghold_crossing"
+    },
+    {
+      "weight": 2.0,
+      "value": "minecraft:chests/stronghold_library"
+    },
+    {
+      "weight": 1.0,
+      "value": "minecraft:chests/woodland_mansion"
+    }
+  ],
+  "fill_blocks": {
+    "at[0]": {
+      "block": "minecraft:air",
+      "meta": 0
+    }
+  },
+  "blocks": {
+    "at[0]": [
+      {
+        "weight": 0.02,
+        "blockinfo": {
+          "blocks": []
+        }
+      },
+      {
+        "weight": 10.0,
+        "values": [
+          {
+            "weight": 1.0,
+            "values": [
+              {
+                "weight": 4.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:log"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 2.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:log2"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 1.0,
+                "blockinfo": {
+                  "blocks": []
+                }
+              },
+              {
+                "weight": 0.5,
+                "blockinfo": {
+                  "blocks": []
+                }
+              },
+              {
+                "weight": 1.0,
+                "blockinfo": {
+                  "blocks": []
+                }
+              },
+              {
+                "weight": 1.0,
+                "blockinfo": {
+                  "blocks": []
+                }
+              }
+            ]
+          },
+          {
+            "weight": 0.5,
+            "values": [
+              {
+                "weight": 6.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:planks"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 1.0,
+                "blockinfo": {
+                  "blocks": []
+                }
+              }
+            ]
+          },
+          {
+            "weight": 1.0,
+            "values": [
+              {
+                "weight": 4.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:leaves"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 2.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:leaves2"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 1.0,
+                "blockinfo": {
+                  "blocks": []
+                }
+              },
+              {
+                "weight": 1.0,
+                "blockinfo": {
+                  "blocks": []
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "weight": 20.0,
+        "values": [
+          {
+            "weight": 3.0,
+            "values": [
+              {
+                "weight": 12.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:stone",
+                      "meta": 0
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 2.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:obsidian"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 6.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:cobblestone"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 8.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:gravel"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 4.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:stone",
+                      "meta": 1
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 1.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:stone",
+                      "meta": 2
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 4.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:stone",
+                      "meta": 3
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 1.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:stone",
+                      "meta": 4
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 4.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:stone",
+                      "meta": 5
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 1.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:stone",
+                      "meta": 6
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 5.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "stoneBasalt"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 5.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "stoneMarble"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 5.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "stoneLimestone"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "weight": 1.0,
+            "values": [
+              {
+                "weight": 10.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:dirt"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 3.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:grass_path"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 2.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:dirt",
+                      "meta": 1
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "weight": 1.0,
+            "values": [
+              {
+                "weight": 10.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:sand",
+                      "meta": 0
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 10.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:sand",
+                      "meta": 0
+                    }
+                  ],
+                  "at[0,1,0]": [
+                    {
+                      "weight": 0.5,
+                      "block": "minecraft:reeds"
+                    },
+                    {
+                      "weight": 0.5,
+                      "block": "minecraft:cactus"
+                    },
+                    {
+                      "weight": 0.19999999999999996,
+                      "block": "minecraft:tallgrass",
+                      "meta": 0
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 10.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:sand",
+                      "meta": 1
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 10.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:sand",
+                      "meta": 1
+                    }
+                  ],
+                  "at[0,1,0]": [
+                    {
+                      "weight": 0.1,
+                      "block": "minecraft:tallgrass",
+                      "meta": 0
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 3.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:sandstone",
+                      "meta": 0
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 1.5,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:sandstone",
+                      "meta": 1
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 1.5,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:sandstone",
+                      "meta": 2
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 3.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:red_sandstone",
+                      "meta": 0
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 1.5,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:red_sandstone",
+                      "meta": 1
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 1.5,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:red_sandstone",
+                      "meta": 2
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "weight": 2.0,
+            "values": [
+              {
+                "weight": 10.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:grass",
+                      "meta": 0
+                    }
+                  ],
+                  "at[0,1,0]": [
+                    {
+                      "weight": 0.25,
+                      "block": "minecraft:air"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 1.5,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:grass",
+                      "meta": 0
+                    }
+                  ],
+                  "at[0,1,0]": [
+                    {
+                      "weight": 2.0,
+                      "block": "minecraft:sapling"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 1.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:grass",
+                      "meta": 0
+                    }
+                  ],
+                  "at[0,1,0]": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:snow_layer",
+                      "meta": 0
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.8000000000000007,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:grass",
+                      "meta": 0
+                    }
+                  ],
+                  "at[0,1,0]": [
+                    {
+                      "weight": 10.0,
+                      "block": "minecraft:double_plant",
+                      "meta": 3
+                    }
+                  ],
+                  "at[0,2,0]": [
+                    {
+                      "weight": 10.0,
+                      "block": "minecraft:double_plant",
+                      "meta": 10
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.8000000000000007,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:grass",
+                      "meta": 0
+                    }
+                  ],
+                  "at[0,1,0]": [
+                    {
+                      "weight": 10.0,
+                      "block": "minecraft:double_plant",
+                      "meta": 2
+                    }
+                  ],
+                  "at[0,2,0]": [
+                    {
+                      "weight": 10.0,
+                      "block": "minecraft:double_plant",
+                      "meta": 10
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.8000000000000007,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:grass",
+                      "meta": 0
+                    }
+                  ],
+                  "at[0,1,0]": [
+                    {
+                      "weight": 10.0,
+                      "block": "minecraft:double_plant",
+                      "meta": 5
+                    }
+                  ],
+                  "at[0,2,0]": [
+                    {
+                      "weight": 10.0,
+                      "block": "minecraft:double_plant",
+                      "meta": 10
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.8000000000000007,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:grass",
+                      "meta": 0
+                    }
+                  ],
+                  "at[0,1,0]": [
+                    {
+                      "weight": 10.0,
+                      "block": "minecraft:double_plant",
+                      "meta": 4
+                    }
+                  ],
+                  "at[0,2,0]": [
+                    {
+                      "weight": 10.0,
+                      "block": "minecraft:double_plant",
+                      "meta": 10
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.8000000000000007,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:grass",
+                      "meta": 0
+                    }
+                  ],
+                  "at[0,1,0]": [
+                    {
+                      "weight": 10.0,
+                      "block": "minecraft:double_plant",
+                      "meta": 0
+                    }
+                  ],
+                  "at[0,2,0]": [
+                    {
+                      "weight": 10.0,
+                      "block": "minecraft:double_plant",
+                      "meta": 10
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.8000000000000007,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:grass",
+                      "meta": 0
+                    }
+                  ],
+                  "at[0,1,0]": [
+                    {
+                      "weight": 10.0,
+                      "block": "minecraft:double_plant",
+                      "meta": 1
+                    }
+                  ],
+                  "at[0,2,0]": [
+                    {
+                      "weight": 10.0,
+                      "block": "minecraft:double_plant",
+                      "meta": 10
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 10.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:grass",
+                      "meta": 0
+                    }
+                  ],
+                  "at[0,1,0]": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:yellow_flower"
+                    },
+                    {
+                      "weight": 8.0,
+                      "block": "minecraft:red_flower"
+                    },
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:tallgrass",
+                      "meta": 1
+                    },
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:tallgrass",
+                      "meta": 2
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 3.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:dirt",
+                      "meta": 2
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 1.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:mycelium"
+                    }
+                  ],
+                  "at[0,1,0]": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:air",
+                      "meta": 0
+                    },
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:red_mushroom"
+                    },
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:brown_mushroom"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "weight": 0.5,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:clay"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.09999999999999964,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:snow"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.09999999999999964,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:ice"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "weight": 7.9999999999999964,
+        "values": [
+          {
+            "weight": 1.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:emerald_ore"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 2.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:diamond_ore"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 8.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:redstone_ore"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 6.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:lapis_ore"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 3.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:gold_ore"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 10.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:iron_ore"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 20.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:coal_ore"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 8.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreLead"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 8.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreTin"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 12.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreCopper"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 5.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreNickel"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 8.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreAluminum"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 3.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreSilver"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 3.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreClathrateRedstone"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.7999999999999972,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreRuby"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.7999999999999972,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "orePeridot"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.7999999999999972,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreSapphire"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 4.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreAmber"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 4.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreCinnabar"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "weight": 0.7999999999999972,
+        "values": [
+          {
+            "weight": 1.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:emerald_block"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 2.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:diamond_block"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 8.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:redstone_block"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 6.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:lapis_block"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 3.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:gold_block"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 10.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:iron_block"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 20.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:coal_block"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 8.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "blockLead"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 8.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "blockTin"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 12.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "blockCopper"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 5.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "blockNickel"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 8.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "blockAluminum"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 3.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "blockSilver"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 3.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreClathrateRedstone"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.7999999999999972,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "blockRuby"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.7999999999999972,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "blockPeridot"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.7999999999999972,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "blockSapphire"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 3.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "blockAmber"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 2.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "blockBrass"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 2.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "blockThaumium"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 1.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "blockVoid"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 1.5,
+            "blockinfo": {
+              "blocks": []
+            }
+          },
+          {
+            "weight": 0.29999999999999716,
+            "blockinfo": {
+              "blocks": []
+            }
+          },
+          {
+            "weight": 0.0799999999999983,
+            "blockinfo": {
+              "blocks": []
+            }
+          },
+          {
+            "weight": 0.29999999999999716,
+            "blockinfo": {
+              "blocks": []
+            }
+          },
+          {
+            "weight": 0.0799999999999983,
+            "blockinfo": {
+              "blocks": []
+            }
+          }
+        ]
+      },
+      {
+        "weight": 1.0,
+        "values": [
+          {
+            "weight": 1.4,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:water"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.19999999999999996,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:water"
+                }
+              ],
+              "at[0,1,0]": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:waterlily"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.9999999999999998,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:lava"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "weight": 1.5,
+        "values": [
+          {
+            "weight": 0.2,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:dropper"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.2,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:dispenser"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 2.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:crafting_table"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.5,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:hopper"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 1.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:furnace"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.10000000000000009,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:noteblock"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 1.0,
+            "values": [
+              {
+                "weight": 1.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:chest"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 6.0,
+                "blockinfo": {
+                  "blocks": []
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "weight": 2.0,
+        "values": [
+          {
+            "weight": 0.2,
+            "values": [
+              {
+                "weight": 0.2,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:stonebrick",
+                      "meta": 1
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.2,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:stonebrick",
+                      "meta": 2
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.20000000000000007,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:stonebrick",
+                      "meta": 3
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 1.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:stonebrick",
+                      "meta": 0
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.050000000000000044,
+                "blockinfo": {
+                  "blocks": []
+                }
+              },
+              {
+                "weight": 0.020000000000000018,
+                "blockinfo": {
+                  "blocks": [],
+                  "at[0,1,0]": []
+                }
+              }
+            ]
+          },
+          {
+            "weight": 0.10000000000000003,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:wool"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.09999999999999998,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:stained_hardened_clay"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.09999999999999998,
+            "values": [
+              {
+                "weight": 0.2,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:purple_glazed_terracotta"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.2,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:brown_glazed_terracotta"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.20000000000000007,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:magenta_glazed_terracotta"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.19999999999999996,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:pink_glazed_terracotta"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.19999999999999996,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:gray_glazed_terracotta"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.19999999999999996,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:yellow_glazed_terracotta"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.19999999999999996,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:red_glazed_terracotta"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.19999999999999996,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:orange_glazed_terracotta"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.19999999999999996,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:green_glazed_terracotta"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.19999999999999996,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:lime_glazed_terracotta"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.19999999999999996,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:cyan_glazed_terracotta"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.20000000000000018,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:blue_glazed_terracotta"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.20000000000000018,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:light_blue_glazed_terracotta"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.20000000000000018,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:white_glazed_terracotta"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.20000000000000018,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:silver_glazed_terracotta"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 0.2999999999999998,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:black_glazed_terracotta"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "weight": 0.09999999999999998,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:stained_glass"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.29999999999999993,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:glass"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.30000000000000004,
+            "values": [
+              {
+                "weight": 1.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "block": "minecraft:bookshelf"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 1.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "bookshelfSpruce"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 1.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "bookshelfBirch"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 1.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "bookshelfJungle"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 1.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "bookshelfAcacia"
+                    }
+                  ]
+                }
+              },
+              {
+                "weight": 1.0,
+                "blockinfo": {
+                  "blocks": [
+                    {
+                      "weight": 1.0,
+                      "ore": "bookshelfDarkOak"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "weight": 0.30000000000000004,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:mossy_cobblestone"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.10000000000000009,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:pumpkin"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.10000000000000009,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:melon_block"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.020000000000000018,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:lit_pumpkin"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.10000000000000009,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:slime"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.10000000000000009,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:hay_block"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.10000000000000009,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:lit_redstone_lamp"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.10000000000000009,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:web"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.10000000000000009,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:piston",
+                  "meta": 2
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.20000000000000018,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:brick_block"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.10000000000000009,
+            "blockinfo": {
+              "blocks": []
+            }
+          },
+          {
+            "weight": 0.10000000000000009,
+            "blockinfo": {
+              "blocks": []
+            }
+          }
+        ]
+      },
+      {
+        "weight": 0.29999999999999716,
+        "values": [
+          {
+            "weight": 1.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:prismarine",
+                  "meta": 0
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.3999999999999999,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:prismarine",
+                  "meta": 1
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.19999999999999996,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:prismarine",
+                  "meta": 2
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.30000000000000004,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:sea_lantern"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "weight": 0.20000000000000284,
+        "blockinfo": {
+          "blocks": []
+        }
+      },
+      {
+        "weight": 0.3999999999999986,
+        "blockinfo": {
+          "blocks": []
+        }
+      },
+      {
+        "weight": 0.04999999999999716,
+        "blockinfo": {
+          "blocks": [
+            {
+              "weight": 1.0,
+              "block": "minecraft:mob_spawner"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

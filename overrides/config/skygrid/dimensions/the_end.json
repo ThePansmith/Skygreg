@@ -1,0 +1,299 @@
+{
+  "height": 150,
+  "only_override": true,
+  "offset": [
+    4,
+    4,
+    4
+  ],
+  "mobs": [
+    {
+      "weight": 10.0,
+      "value": "minecraft:enderman"
+    },
+    {
+      "weight": 8.0,
+      "value": "minecraft:endermite"
+    },
+    {
+      "weight": 2.0,
+      "value": "minecraft:shulker"
+    }
+  ],
+  "loot": [
+    {
+      "weight": 10.0,
+      "value": "minecraft:chests/end_city_treasure"
+    }
+  ],
+  "fill_blocks": {
+    "at[0]": {
+      "block": "minecraft:air",
+      "meta": 0
+    }
+  },
+  "blocks": {
+    "at[0]": [
+      {
+        "weight": 0.1,
+        "blockinfo": {
+          "blocks": []
+        }
+      },
+      {
+        "weight": 0.1,
+        "blockinfo": {
+          "blocks": [
+            {
+              "weight": 1.0,
+              "block": "minecraft:purple_shulker_box"
+            }
+          ]
+        }
+      },
+      {
+        "weight": 0.10000000000000003,
+        "blockinfo": {
+          "blocks": [
+            {
+              "weight": 1.0,
+              "block": "minecraft:ender_chest"
+            }
+          ]
+        }
+      },
+      {
+        "weight": 0.19999999999999996,
+        "values": [
+          {
+            "weight": 2.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:purpur_block"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 1.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:purpur_pillar"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "weight": 0.19999999999999996,
+        "values": [
+          {
+            "weight": 1.0,
+            "blockinfo": {
+              "blocks": []
+            }
+          },
+          {
+            "weight": 0.5,
+            "blockinfo": {
+              "blocks": []
+            }
+          }
+        ]
+      },
+      {
+        "weight": 1.0,
+        "values": [
+          {
+            "weight": 0.05,
+            "blockinfo": {
+              "blocks": []
+            }
+          },
+          {
+            "weight": 0.06,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:end_stone"
+                }
+              ],
+              "at[0,1,0]": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:chorus_flower"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 1.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:end_stone"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.19999999999999996,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "block": "minecraft:obsidian"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "weight": 0.25,
+        "values": [
+          {
+            "weight": 5.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreEndOsmium"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 5.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreEndSilver"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 1.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreEndPlatinum"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 8.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreEndLead"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 0.5,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreEndIridium"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 1.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreEndDiamond"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 2.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreAmethyst"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 8.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreBiotite"
+                }
+              ]
+            }
+          },
+          {
+            "weight": 5.0,
+            "blockinfo": {
+              "blocks": [
+                {
+                  "weight": 1.0,
+                  "ore": "oreClathrateEnder"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "weight": 0.050000000000000044,
+        "values": [
+          {
+            "weight": 1.0,
+            "blockinfo": {
+              "blocks": []
+            }
+          },
+          {
+            "weight": 7.0,
+            "blockinfo": {
+              "blocks": []
+            }
+          }
+        ]
+      },
+      {
+        "weight": 0.3999999999999999,
+        "blockinfo": {
+          "blocks": []
+        }
+      },
+      {
+        "weight": 0.04999999999999982,
+        "blockinfo": {
+          "blocks": [
+            {
+              "weight": 1.0,
+              "block": "minecraft:mob_spawner"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
