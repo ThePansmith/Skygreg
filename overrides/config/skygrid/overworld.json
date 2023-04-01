@@ -4599,13 +4599,6 @@
     "biomes": []
   },
   {
-    "block": "minecraft:end_gateway",
-    "meta": 0,
-    "weight": 10,
-    "plants": [],
-    "biomes": []
-  },
-  {
     "block": "minecraft:end_portal",
     "meta": 0,
     "weight": 10,

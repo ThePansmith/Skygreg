@@ -16,3 +16,9 @@ for i in [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15] as int[] {
 // Controller
 rh(<appliedenergistics2:controller>);
 
+// eh, close enough.
+recipes.remove(<threng:machine:2>);
+recipes.addShaped("lazy", <threng:machine:2>,
+ [[<gregtech:meta_ingot:324>,<minecraft:piston>,<gregtech:meta_ingot:324>],
+  [<gregtech:meta_ingot:324>,<gregtech:machine:986>,<gregtech:meta_ingot:324>],
+  [<gregtech:meta_item_1:172>,<minecraft:piston>,<gregtech:meta_item_1:172>]]);
