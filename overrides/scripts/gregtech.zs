@@ -11,6 +11,7 @@ import mods.gregtech.recipe.RecipeMap;
 val centrifuge as RecipeMap = <recipemap:centrifuge>;
 val electrolyzer as RecipeMap = <recipemap:electrolyzer>;
 
+
 centrifuge.recipeBuilder()
     .inputs(<minecraft:spider_eye>)
 	.fluidOutputs(<liquid:methane> * 32)
@@ -51,7 +52,7 @@ electrolyzer.recipeBuilder()
 	
 centrifuge.recipeBuilder()
     .inputs((<enderio:item_soul_vial:1>.withTag({entityId: "minecraft:blaze"})))
-    .outputs(<minecraft:blaze_rod>)
+    .outputs(<minecraft:blaze_rod> * 5)
 	.chancedOutput(<enderio:item_soul_vial>, 7500, 0)
     .duration(100)
     .EUt(5)
@@ -69,7 +70,7 @@ centrifuge.recipeBuilder()
 centrifuge.recipeBuilder()
     .inputs((<enderio:item_soul_vial:1>.withTag({entityId: "minecraft:enderman"})))
     .outputs(<minecraft:ender_pearl>)
-	.chancedOutput(<gregtech:meta_crushed:214>, 5000, 0)
+	.chancedOutput(<gregtech:ore_certus_quartz_0:2>, 5000, 0)
 	.chancedOutput(<enderio:item_soul_vial>, 7500, 0)
     .duration(100)
     .EUt(5)
@@ -78,9 +79,27 @@ centrifuge.recipeBuilder()
 centrifuge.recipeBuilder()
     .inputs((<enderio:item_soul_vial:1>.withTag({entityId: "minecraft:wither_skeleton"})))
     .outputs(<gregtech:meta_dust_tiny:1602> * 3)
-	.chancedOutput(<gregtech:ore_platinum_0:2> * 4, 5000, 0)
+	.chancedOutput(<gregtech:ore_platinum_0:1> * 4, 5000, 0)
 	.chancedOutput(<enderio:item_soul_vial>, 7500, 0)
 	.fluidOutputs(<liquid:oil> * 1000)
+    .duration(100)
+    .EUt(5)
+    .buildAndRegister();
+	
+centrifuge.recipeBuilder()
+    .inputs((<enderio:item_soul_vial:1>.withTag({entityId: "minecraft:zombie_pigman"})))
+    .outputs(<gregtech:meta_dust_small:41>)
+	.chancedOutput(<gregtech:ore_chromite_0:1> * 2, 5000, 0)
+	.chancedOutput(<enderio:item_soul_vial>, 7500, 0)
+    .duration(100)
+    .EUt(5)
+    .buildAndRegister();
+	
+centrifuge.recipeBuilder()
+    .inputs((<enderio:item_soul_vial:1>.withTag({entityId: "minecraft:creeper"})))
+    .outputs(<gregtech:meta_dust:313>)
+	.chancedOutput(<gregtech:ore_thorium_0> * 3, 5000, 0)
+	.chancedOutput(<enderio:item_soul_vial>, 7500, 0)
     .duration(100)
     .EUt(5)
     .buildAndRegister();
