@@ -3547,6 +3547,62 @@
     "weight": 10,
     "plants": [],
     "biomes": []
+  },  
+  {
+    "block": "gregtech:wire_coil",
+    "meta": 0,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:wire_coil",
+    "meta": 1,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:wire_coil",
+    "meta": 2,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:wire_coil",
+    "meta": 3,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:wire_coil",
+    "meta": 4,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:wire_coil",
+    "meta": 5,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:wire_coil",
+    "meta": 6,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
+  },
+  {
+    "block": "gregtech:wire_coil",
+    "meta": 7,
+    "weight": 10,
+    "plants": [],
+    "biomes": []
   },
   {
     "block": "minecraft:acacia_door",
